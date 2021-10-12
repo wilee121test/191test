@@ -18,7 +18,7 @@
 
 public class HelloWorld {
 	//Today changes made in 09/30
-    public static void main(String[] args) {
+    public void main(String[] args) {
         // Prints "Hello, World" to the terminal window.
         System.out.println("Hello, World");
     }
